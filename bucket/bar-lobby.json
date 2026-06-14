@@ -1,5 +1,5 @@
 {
-    "version": "0.15.3-dev.9",
+    "version": "0.15.3-dev.10",
     "description": "Beyond All Reason lobby client (bar-lobby)",
     "homepage": "https://github.com/ExaDev/bar-lobby",
     "license": {
@@ -7,8 +7,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ExaDev/bar-lobby/releases/download/v0.15.3-dev.9/BeyondAllReason-0.15.3-dev.9-win-x64.zip",
-            "hash": "e8dddc3517b12e148dfd503c31489049a190840012afba1d23f5e4dcb3fc9b1d"
+            "url": "https://github.com/ExaDev/bar-lobby/releases/download/v0.15.3-dev.10/BeyondAllReason-0.15.3-dev.10-win-x64.zip",
+            "hash": "99ca8f3377860e86a25d549eb2aae2ccf02a91b773d070c4b58f7c83bda9e191"
         }
     },
     "shortcuts": [
