@@ -1,26 +1,28 @@
 {
-    "version": "0.15.3-dev.18",
-    "description": "Beyond All Reason lobby client (bar-lobby)",
-    "homepage": "https://github.com/ExaDev/bar-lobby",
+    "version": "1.2988.0",
+    "description": "Beyond All Reason: bar-lobby + Chobby (Windows)",
+    "homepage": "https://www.beyondallreason.info/",
     "license": {
+        "identifier": "MIT",
         "url": "https://github.com/ExaDev/bar-lobby/blob/master/LICENSE.md"
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ExaDev/bar-lobby/releases/download/v0.15.3-dev.18/BeyondAllReason-0.15.3-dev.18-win-x64.zip",
-            "hash": "154a3b4c7316c1ede904ae970beef0b0df091c7116a3c1659a0c99260fb68e75"
+            "url": "https://github.com/ExaDev/BYAR-Chobby/releases/download/v$version/BeyondAllReason-bundle-$version-win-x64.zip",
+            "hash": "0d0bb26c1d32b64c60716b6363db81b4bb843186bfdc95c1c7b33b45f752a949"
         }
     },
     "shortcuts": [
-        ["BeyondAllReason.exe", "Beyond All Reason"]
+        ["lobby\\BeyondAllReason.exe", "Beyond All Reason"],
+        ["chobby\\Beyond All Reason (Chobby).exe", "Beyond All Reason (Chobby)"]
     ],
     "checkver": {
-        "github": "https://github.com/ExaDev/bar-lobby"
+        "github": "https://github.com/ExaDev/BYAR-Chobby"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/ExaDev/bar-lobby/releases/download/v$version/BeyondAllReason-$version-win-x64.zip"
+                "url": "https://github.com/ExaDev/BYAR-Chobby/releases/download/v$version/BeyondAllReason-bundle-$version-win-x64.zip"
             }
         }
     }
