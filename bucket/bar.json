@@ -1,5 +1,5 @@
 {
-    "version": "1.4647.0",
+    "version": "1.4649.0",
     "description": "Beyond All Reason: bar-lobby + Chobby (Windows)",
     "homepage": "https://www.beyondallreason.info/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ExaDev/BYAR-Chobby/releases/download/v1.4647.0/BeyondAllReason-bundle-1.4647.0-win-x64.zip",
-            "hash": "9715f5f10ad81090086026fa38e2047c452bf5257df97e5456786a12928ab236"
+            "url": "https://github.com/ExaDev/BYAR-Chobby/releases/download/v1.4649.0/BeyondAllReason-bundle-1.4649.0-win-x64.zip",
+            "hash": "077dd18dbf50b6907d58b1eaf363ac31ef4b9248508ec142cadc75d879034c94"
         }
     },
     "shortcuts": [
