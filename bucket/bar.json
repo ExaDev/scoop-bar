@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/ExaDev/BYAR-Chobby/releases/download/v1.4667.0/BeyondAllReason-bundle-1.4667.0-win-x64.zip",
-            "hash": "e0a4d5e50d1f0981cc6e5c67e483bbef69a07e10475313056ba433f81f0f3bdb"
+            "hash": "aeac051abe48946223a8fd0652828df1384854c001cb845922e42a96646fce79"
         }
     },
     "shortcuts": [
