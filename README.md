@@ -1,5 +1,7 @@
 # scoop-bar
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ExaDev/scoop-bar)
+
 [Scoop](https://scoop.sh/) bucket for [Beyond All Reason](https://www.beyondallreason.info/)
 on Windows, distributing the [bar-lobby](https://github.com/ExaDev/bar-lobby)
 client (portable build).
